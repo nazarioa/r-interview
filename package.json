@@ -1,0 +1,11 @@
+{
+  "name": "r-interview",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "latest"
+  }
+}
